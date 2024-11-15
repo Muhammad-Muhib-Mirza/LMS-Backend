@@ -1,0 +1,6 @@
+# Ignore the .vs folder used by Visual Studio
+.vs/
+
+# Ignore other common files
+node_modules/
+*.log

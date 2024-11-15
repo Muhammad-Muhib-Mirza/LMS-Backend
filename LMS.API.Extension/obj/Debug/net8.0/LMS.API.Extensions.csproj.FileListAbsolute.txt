@@ -1,0 +1,78 @@
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.AssemblyInfoInputs.cache
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.AssemblyInfo.cs
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.CoreCompileInputs.cache
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.deps.json
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.dll
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.pdb
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.dll
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\obj\Debug\net8.0\refint\LMS.API.Extensions.dll
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.pdb
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\obj\Debug\net8.0\ref\LMS.API.Extensions.dll
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Logging.dll
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Logging.pdb
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.AssemblyReference.cache
+D:\Personal\Edu - Project\ServerSide\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API..6536DAF5.Up2Date
+E:\Smart Education Demo\LMS\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.deps.json
+E:\Smart Education Demo\LMS\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.dll
+E:\Smart Education Demo\LMS\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.pdb
+E:\Smart Education Demo\LMS\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Logging.dll
+E:\Smart Education Demo\LMS\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Logging.pdb
+E:\Smart Education Demo\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.AssemblyReference.cache
+E:\Smart Education Demo\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Smart Education Demo\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.AssemblyInfoInputs.cache
+E:\Smart Education Demo\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.AssemblyInfo.cs
+E:\Smart Education Demo\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.CoreCompileInputs.cache
+E:\Smart Education Demo\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.CopyComplete
+E:\Smart Education Demo\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.dll
+E:\Smart Education Demo\LMS\LMS.API.Extension\obj\Debug\net8.0\refint\LMS.API.Extensions.dll
+E:\Smart Education Demo\LMS\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.pdb
+E:\Smart Education Demo\LMS\LMS.API.Extension\obj\Debug\net8.0\ref\LMS.API.Extensions.dll
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.deps.json
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.dll
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.pdb
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Logging.dll
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Logging.pdb
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.AssemblyReference.cache
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.AssemblyInfoInputs.cache
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.AssemblyInfo.cs
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.CoreCompileInputs.cache
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.sourcelink.json
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.CopyComplete
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.dll
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\refint\LMS.API.Extensions.dll
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.pdb
+E:\Smart Education Solution\ServerSide\LMS.API.Extension\obj\Debug\net8.0\ref\LMS.API.Extensions.dll
+E:\change git hub\smarteducation\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.deps.json
+E:\change git hub\smarteducation\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.dll
+E:\change git hub\smarteducation\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.pdb
+E:\change git hub\smarteducation\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Logging.dll
+E:\change git hub\smarteducation\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Logging.pdb
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.AssemblyReference.cache
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.AssemblyInfoInputs.cache
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.AssemblyInfo.cs
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.CoreCompileInputs.cache
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.sourcelink.json
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.CopyComplete
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.dll
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\refint\LMS.API.Extensions.dll
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.pdb
+E:\change git hub\smarteducation\LMS.API.Extension\obj\Debug\net8.0\ref\LMS.API.Extensions.dll
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.deps.json
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.dll
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Extensions.pdb
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Logging.dll
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\bin\Debug\net8.0\LMS.API.Logging.pdb
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.AssemblyInfo.cs
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.sourcelink.json
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.csproj.CopyComplete
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.dll
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\refint\LMS.API.Extensions.dll
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\LMS.API.Extensions.pdb
+C:\Users\User\Desktop\Muhib\Ai Project\LMS\SupperAdminBackend\LMS.API.Extension\obj\Debug\net8.0\ref\LMS.API.Extensions.dll
